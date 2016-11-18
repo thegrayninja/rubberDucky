@@ -1,0 +1,8 @@
+As of duckencoder 1.X usage is:
+
+usage: duckencode -i [file ..]			encode specified file
+or: duckencode -i [file ..] -o [file ..]	encode to specified file
+
+For example on a Linux system:
+
+java -jar duckencode.jar -i exploit.txt -o /media/user/drive/inject.bin
